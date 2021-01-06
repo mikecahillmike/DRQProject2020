@@ -5,7 +5,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #000000;
+    background-color: #7a1c1c;
 }
 
 h1 {
@@ -67,22 +67,22 @@ form {
 }
 
 .createPlayer button {
-    background-color: #519e8a;
+    background-color: #800000;
     color: #fff;
-    border: 2px solid #fff;
+    border: 3px solid #fff;
+    border-radius: 20px;
     width: 100%;
     margin-top: 1em;
     padding: 8px 0px;
-    font-size: 1em;
     font-weight: bold;
     letter-spacing: 1px;
     margin-bottom: 0.25em;
 }
 
 .createPlayer button:hover {
-    color: #519e8a;
-    background-color: #fff;
-    border: 2px solid #519e8a;
+    color: #000000;
+    background-color: rgb(253, 251, 251);
+    border: 3px solid #800000;
 }
 
 label {

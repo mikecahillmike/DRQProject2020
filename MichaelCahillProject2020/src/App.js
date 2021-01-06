@@ -18,7 +18,7 @@ class App extends Component {
         <div className="App">
 
           <Navbar bg="primary" variant="dark">
-            <Navbar.Brand href="#home">Navbar</Navbar.Brand>
+            <Navbar.Brand href="#home">Michael</Navbar.Brand>
             <Nav className="mr-auto">
               <Nav.Link href="/">Home</Nav.Link>
               <Nav.Link href="/store">Store</Nav.Link>
