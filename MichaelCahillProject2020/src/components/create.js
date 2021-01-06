@@ -7,7 +7,7 @@ export class Create extends React.Component {
     constructor() {// Constructor
         super();
 
-        this.state = {
+        this.state = { 
             Name: '',
             Price: '',
             Poster: ''

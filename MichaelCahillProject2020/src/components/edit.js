@@ -11,7 +11,7 @@ export class Edit extends React.Component {
             Price: '',
             Poster: ''
         }
-
+ 
         this.handleProductNameChange = this.handleProductNameChange.bind(this); 
         this.handleProductPriceChange = this.handleProductPriceChange.bind(this);
         this.handleProductPosterChange = this.handleProductPosterChange.bind(this);
